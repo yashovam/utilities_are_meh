@@ -2,12 +2,11 @@
 ## utilities_are_meh
 
 A collection of random utilities I create and find useful enough to share.
+##
 ## ------------+-+<0>+-+-----------
 ## -------------<>-+-<>------------
 ## ------------+-+<0>+-+-----------
-
-\n 
-
+##
 
 ## 2- unlocking a locked windows folder
 
